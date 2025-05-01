@@ -1,0 +1,6 @@
+tensorflow # recent version of tensorflow included keras.
+scikit-learn
+pandas
+numpy
+matplotlib
+tensorboard
